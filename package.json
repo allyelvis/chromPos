@@ -1,6 +1,6 @@
 {
   "name": "chrompos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "chrome extension cloud base pos and accounting system",
   "main": "index.js",
   "scripts": {
