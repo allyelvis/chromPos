@@ -19,7 +19,7 @@
   "homepage": "https://github.com/allyelvis/chromPos#readme",
   "devDependencies": {
     "html-webpack-plugin": "^5.6.0",
-    "webpack": "^5.95.0",
+    "webpack": "^5.98.0",
     "webpack-cli": "^5.1.4"
   }
 }
